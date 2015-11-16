@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README.md"
 output: html_document
@@ -29,3 +30,6 @@ Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in 
 ##Dependencies
 
 run_analysis.R file will help you to install the dependencies automatically. It depends on reshape2 and data.table.
+=======
+# GettingAndCleaningData
+>>>>>>> 807c9a00145f9fb6db6983befbcf510a3a7fbead
